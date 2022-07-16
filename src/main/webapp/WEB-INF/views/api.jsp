@@ -3,8 +3,10 @@
 
 <body>
 
-	Homepage Spring!
-
+	API Spring!
+	<br>
+	User : ${param.id}
+	
 
 </body>
 
